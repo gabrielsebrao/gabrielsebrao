@@ -5,9 +5,10 @@
 ### ***Aprendiz Industrial de Back-End na Intelbras e Senai***<br> Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 3° Ano do Ensino Médio <br> 17 anos
 ## **Ferramentas**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ## **Linguagens**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=40px/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=50px/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width=50px/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width=50px/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width=50px/> 
