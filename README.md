@@ -9,11 +9,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=40px/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=50px/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width=50px/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width=50px/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width=50px/> 
 
 ## **Redes sociais**
-<a href="https://instagram.com/gabwlfgrl" target="_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://open.spotify.com/user/ofq3ca0anjo3wx75yndohtm88" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-<a href="https://www.last.fm/pt/user/omorismt" target="_blank"> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
-<a href="https://br.pinterest.com/gabrielsebrao/" target="_blank"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-<a href="https://www.duolingo.com/profile/kelsmt" target="_blank"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
+<a href="https://instagram.com/gabwlfgrl" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://open.spotify.com/user/ofq3ca0anjo3wx75yndohtm88" target="_blank" style="text-decoration: none;">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+<a href="https://www.last.fm/pt/user/omorismt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
+<a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+<a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
 
 <img src="https://nasyoongi.carrd.co/assets/images/image01.gif?v=ed878ae6" width=75px/>
 
