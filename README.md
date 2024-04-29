@@ -1,8 +1,6 @@
-## Gabriel de Oliveira Sebrão 
+## gabriel de oliveira sebrao
 
-<img src="https://64.media.tumblr.com/9be964b265d20029abdf405cbe4b2ce4/4ea248d871d20542-9f/s1280x1920/e365b97b2ccf6f8abbd0a4db94fc0619257c3179.gif" width=150px/>
-
-### ***Aprendiz Industrial de Back-End na Intelbras e Senai***<br> Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 3° Ano do Ensino Médio <br> 17 anos
+ ***Aprendiz Industrial de Back-End na Intelbras e Senai***<br> Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 3° Ano do Ensino Médio <br> 17 anos
 ## **Ferramentas**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -25,6 +23,4 @@
 <a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 <a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
 
-<img src="https://nasyoongi.carrd.co/assets/images/image01.gif?v=ed878ae6" width=75px/>
-
-[![](https://visitcount.itsvg.in/api?id=gabrielsebrao&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gabrielsebrao&label=profile%20views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
