@@ -1,4 +1,4 @@
-![Header](./readme.png)
+![Header](./readme.gif)
 
 ## gabriel de oliveira sebrao <img src="./gatinho.gif" width=40>
 
