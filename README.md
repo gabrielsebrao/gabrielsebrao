@@ -1,6 +1,6 @@
 ![Header](./readme.gif)
 
-## gabriel de oliveira sebrao <img src="./gatinho.gif" width=40>
+## gabriel de oliveira sebrão <img src="./gatinho.gif" width=40>
 
  ***Aprendiz Industrial de Back-End na Intelbras e Senai***<br> Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 3° Ano do Ensino Médio <br> 17 anos
 ## **Ferramentas**
@@ -24,5 +24,3 @@
 <a href="https://www.last.fm/pt/user/omorismt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
 <a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 <a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
-
-[![](https://visitcount.itsvg.in/api?id=gabrielsebrao&label=profile%20views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
