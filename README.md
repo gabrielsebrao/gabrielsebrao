@@ -27,7 +27,7 @@
 <a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white) </a>
 <a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white"> </a>
 
-<h3><img src="fonezinho.gif"> ouvindo agora</h3>
+<h3><img src="fonezinho.gif" width="15"> Ouvindo agora</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&redirect=true)
 
