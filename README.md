@@ -19,10 +19,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## **Redes sociais**
-<a href="https://instagram.com/gabwlfgrl" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://open.spotify.com/user/ofq3ca0anjo3wx75yndohtm88" target="_blank" style="text-decoration: none;">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-<a href="https://www.last.fm/pt/user/omorismt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
-<a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-<a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
+<a href="https://instagram.com/gabwlfgrl" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+<a href="https://open.spotify.com/user/ofq3ca0anjo3wx75yndohtm88" target="_blank" style="text-decoration: none;">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) </a>
+<a href="https://www.last.fm/pt/user/omorismt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white"> </a>
+<a href="https://br.pinterest.com/gabrielsebrao/" target="_blank" style="text-decoration: none;"> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white) </a>
+<a href="https://www.duolingo.com/profile/kelsmt" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white"> </a>
+
+### ouvindo agora
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&redirect=true)
