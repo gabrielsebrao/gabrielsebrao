@@ -1,6 +1,6 @@
 ![Header](./readme.gif)
 
-## Gabriel de oliveira Sebrão <img src="./gatinho.gif" width=40>
+## Gabriel de Oliveira Sebrão <img src="./gatinho.gif" width=40>
 
 <h3><img src="sobremim.gif"> Sobre mim</h3>
 
