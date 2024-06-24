@@ -22,7 +22,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3><img src="fonezinho.gif" width="15"> Ouvindo agora</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ofq3ca0anjo3wx75yndohtm88&redirect=true)
 
