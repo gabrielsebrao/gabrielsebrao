@@ -6,14 +6,14 @@
         <td style="width: 100%; vertical-align: middle;">
 <p style="font-family: monospace; font-size: 80px;">    
 
-    gabrielsebrao
+    gabrielsebrao@ubuntu:~$ ls about_me/
 <p>                                                                                                                            
 
     📁about_me 
     │
     ├── 📁me
     │    ├── brazilian (pt_br and en_us)
-    │    ├── he/him
+    │    ├── he_him
     │    ├── 17y 
     │    ├── working as a mobile developer at intelbras
     │    └── studying systems development at senai  
@@ -26,7 +26,7 @@
     │
     └── 📁social_media
          ├── instagram/ gabwlfgrl
-         ├── lastfm/ omorismt
+         ├── last_fm/ omorismt
          ├── discord/ shousostrip
          ├── rate_your_music/ gab417rs
          ├── letterbox/ kelsmt
