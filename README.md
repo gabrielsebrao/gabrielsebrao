@@ -1,25 +1,33 @@
-![Header](./readme.gif)
+<table>
+    <tr>
+        <td style="width: 70%;">
+            <img src="https://i.pinimg.com/236x/9a/db/f4/9adbf41726b8fa0d317f82f90d62f1ff.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+<p style="font-family: monospace; font-size: 80px;">    
 
-## Gabriel de Oliveira Sebrão <img src="./gatinho.gif" width=40>
+    gabrielsebrao
+<p>                                                                                                                            
 
-<h3><img src="sobremim.gif"> Sobre mim</h3>
-
- ***Aprendiz Industrial de Back-End na Intelbras e Senai***<br> Ténico em Desenvolvimento de Sistemas SESI/SENAI <br> 3° Ano do Ensino Médio <br> 17 anos
-## <img src="./girando.gif"> **Ferramentas**
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-## <img src="./pirueta.gif"> **Linguagens**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
+    📁about_me 
+    │
+    ├── 📁me
+    │    ├── brazilian (pt_br and en_us)
+    │    ├── he/him
+    │    ├── 17y 
+    │    ├── working as a mobile developer at intelbras
+    │    └── studying systems development at senai  
+    │                                        
+    ├── 📁languages
+    │    ├── kotlin (job)
+    │    ├── c++
+    │    ├── python
+    │    └── java
+    │
+    └── 📁social_media
+         ├── instagram/ gabwlfgrl
+         ├── lastfm/ omorismt
+         ├── discord/ shousostrip
+         ├── rate_your_music/ gab417rs
+         ├── letterbox/ kelsmt
+         └── gmail/ gabrielsebrao06@gmail.com
