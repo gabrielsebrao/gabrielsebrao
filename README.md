@@ -30,4 +30,4 @@
          ├── discord/ shousostrip
          ├── rate_your_music/ gab417rs
          ├── letterbox/ kelsmt
-         └── gmail/ gabrielsebrao06@gmail.com
+         └── gmail/ gabrielsebrao06@gmail.com                                  
