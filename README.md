@@ -15,7 +15,7 @@
     │    ├── brazilian (pt_br and en_us)
     │    ├── he_him
     │    ├── 17y 
-    │    ├── working as a mobile developer at intelbras
+    │    ├── working as a mobile developer for intelbras
     │    └── studying systems development at senai  
     │                                        
     ├── 📁languages
