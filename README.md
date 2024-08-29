@@ -23,6 +23,14 @@
     │    ├── c++
     │    ├── python
     │    └── java
+    │ 
+    ├── 📁technologies
+    │    ├── android studio (job)
+    │    ├── vscode
+    │    ├── git
+    │    ├── express
+    │    ├── react
+    │    └── react_native 
     │
     └── 📁social_media
          ├── instagram/ gabwlfgrl
