@@ -23,11 +23,11 @@
     │    ├── c++
     │    ├── python
     │    └── java
-    │ 
-    └── 📁technologies
-         ├── android studio (job)
-         ├── vscode
-         ├── git
-         ├── express
-         ├── react
-         └── react_native                                                                                      
+    │
+    └── 📁social_media
+         ├── instagram/ gabwlfgrl
+         ├── last_fm/ omorismt
+         ├── discord/ shousostrip
+         ├── rate_your_music/ gab417rs
+         ├── letterbox/ kelsmt
+         └── gmail/ gabrielsebrao06@gmail.com                                  
